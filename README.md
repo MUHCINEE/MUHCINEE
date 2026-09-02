@@ -1,14 +1,17 @@
 <div align="center">
-  <h1>Hi there, I'm a Developer </h1>
+  <h1>Hi there, I'm MOUHSINE DAGHMOUMY </h1>
   <p>Passionate about building software, web applications, and low-level systems.</p>
   <p>21-year-old IT Student & Aspiring Software Engineer</p>
-  <p>Building software, web applications, and low-level systems. My coding journey started 5 years ago with Python game development,         and today I'm actively documenting my path toward becoming a full-fledged Software Engineer.</p>
+  <p>Building software, web applications, and low-level systems. My coding journey started 5 years ago with Python game development, and today I'm actively documenting my path toward becoming a full-fledged Software Engineer.</p>
 
+  <p>
+    📫 <b>Contact me:</b> <a href="mailto:m.daghmoumyy@gmail.com">m.daghmoumyy@gmail.com</a>
+  </p>
 </div>
 
 ---
 
-###  Skills & Knowledge
+### 🛠️ Skills & Knowledge
 
 | Technology | Mastery Level | Progress |
 | :--- | :--- | :--- |
@@ -32,7 +35,7 @@
 
 ---
 
-###  Tech Stack Icons Overview
+### 🚀 Tech Stack Icons Overview
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
